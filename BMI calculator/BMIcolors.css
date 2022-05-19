@@ -1,0 +1,23 @@
+/* MARTY DE ALBA */
+body{
+    background-color: yellow;
+    font: 13 bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    border: 2px dotted blue;
+    width: 200px;
+    height: 200px;
+    padding: 2px;
+
+}
+button{
+    width: 50px;
+    font-size: .6em;
+    font-family: arial;
+}
